@@ -34,7 +34,7 @@ console.error(teste);
 
 #### Caixas de check
 
-- [ ] Fazer a tela de login
+- [x] Fazer a tela de login
 - [ ] Criar a tabela de calculo
 - [ ] Criar a tela de histórico
 
